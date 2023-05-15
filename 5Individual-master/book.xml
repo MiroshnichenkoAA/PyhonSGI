@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<water_resources>
+    <rivers>
+        <river id = "0" country_id = "0" name = "Kuban" length = "8700" depth = "3766"/>
+        <river id = "1" country_id = "1" name = "Mississippi" length = "3766" depth = "61"/>
+    </rivers>
+    <lakes>
+        <doctor id = "0" country_id = "0" name = "Baikal" depth = "1642" />
+        <doctor id = "1" country_id = "1" name = "Michigan" depth = "281" />
+    </lakes>
+    <countries>
+        <country id = "0" name = "Russia"  ammount_of_reservoirs = "2747997" />
+        <country id = "1" name = "USA"  ammount_of_reservoirs = "18000" />
+    </countries>
+</water_resources>
